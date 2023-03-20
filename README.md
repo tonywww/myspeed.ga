@@ -1,4 +1,4 @@
-# speed2
+# myspeed.ga
 
 A speed test website powered by fireprobe.net©.
 
