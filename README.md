@@ -1,12 +1,11 @@
-# myspeed.ga
-
+# ourspeed
 A speed test website powered by fireprobe.net©.
 
 ## Usage
 
 * Simply go to the website:
 
-  https://myspeed.ga
+  https://ourspeed.eu.org
 
 
 ## License
