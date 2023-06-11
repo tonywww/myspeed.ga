@@ -5,7 +5,7 @@ A speed test website powered by fireprobe.net©.
 
 * Simply go to the website:
 
-  https://ourspeed.eu.org
+  http://speed.pp.ua
 
 
 ## License
